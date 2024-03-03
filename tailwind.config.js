@@ -10,6 +10,8 @@ export default {
     extend: {
       colors: {
         'primary': colors.blue,
+        'secondary': colors.gray,
+        'tertiary': colors.red
       }
     },
   },
