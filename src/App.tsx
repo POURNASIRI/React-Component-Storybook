@@ -1,8 +1,14 @@
+import { Button } from "./components/button"
+
 
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Button variant="outline" size="lg" >
+        click
+      </Button>
+    </div>
   )
 }
 

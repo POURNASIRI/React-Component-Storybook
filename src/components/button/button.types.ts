@@ -22,6 +22,8 @@ export const buttonStyles = cva([
         },
         colorSchema:{
             primary:"text-white",
+            secondary:"text-secondary-500",
+            tertiary:"text-tertiary-500",
         },
        
     },
